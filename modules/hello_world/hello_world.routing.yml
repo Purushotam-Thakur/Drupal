@@ -1,0 +1,6 @@
+hello_world:
+	path: hello/world
+	defaluts: 
+		_contrloller: Drupal/hello_world/Controller/HelloWorldController::hello
+	requirements:
+		_permission: 'access content'
