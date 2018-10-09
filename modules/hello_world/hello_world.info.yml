@@ -1,0 +1,5 @@
+name: Hello World
+type: model
+description: Say Hello World
+packag: Custom
+core: 8.x
